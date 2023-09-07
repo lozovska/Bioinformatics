@@ -1,0 +1,607 @@
+top 100 for sp|P69905.2|HBA_HUMAN
+1. sp|P69905|HBA_HUMAN Hemoglobin subunit alpha OS=Homo sapiens OX=9606 GN=HBA1 PE=1 SV=2 
+	 Delta: 0.0
+2. sp|P69906|HBA_PANPA Hemoglobin subunit alpha OS=Pan paniscus OX=9597 GN=HBA1 PE=1 SV=2 
+	 Delta: 0.0
+3. sp|P69907|HBA_PANTR Hemoglobin subunit alpha OS=Pan troglodytes OX=9598 GN=HBA1 PE=1 SV=2 
+	 Delta: 0.0
+4. sp|Q9TS35|HBA1_HYLLA Hemoglobin subunit alpha-1 OS=Hylobates lar OX=9580 GN=HBA1 PE=2 SV=2 
+	 Delta: 1.0615508472255897e-11
+5. sp|P14387|HBA_ANTPA Hemoglobin subunit alpha OS=Antrozous pallidus OX=9440 GN=HBA PE=1 SV=2 
+	 Delta: 2.0392342037212075e-07
+6. sp|Q862A7|HBA_PIPAB Hemoglobin subunit alpha OS=Pipistrellus abramus OX=105295 GN=HBA PE=2 SV=3 
+	 Delta: 2.0392342037212075e-07
+7. sp|P18970|HBA_AILME Hemoglobin subunit alpha OS=Ailuropoda melanoleuca OX=9646 GN=HBA PE=1 SV=2 
+	 Delta: 1.1612707766062158e-05
+8. sp|Q1MTN8|ACL4_SCHPO Probable assembly chaperone of rpl4 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPBC16D10.01c PE=3 SV=2 
+	 Delta: 1.5805464627760557e-05
+9. sp|Q80TE7|LRRC7_MOUSE Leucine-rich repeat-containing protein 7 OS=Mus musculus OX=10090 GN=Lrrc7 PE=1 SV=2 
+	 Delta: 2.843889340908845e-05
+10. sp|P70587|LRRC7_RAT Leucine-rich repeat-containing protein 7 OS=Rattus norvegicus OX=10116 GN=Lrrc7 PE=1 SV=2 
+	 Delta: 2.843889340908845e-05
+11. sp|Q9TS34|HBA2_HYLLA Hemoglobin subunit alpha-2 OS=Hylobates lar OX=9580 GN=HBA2 PE=2 SV=2 
+	 Delta: 3.5751841423348196e-05
+12. sp|P06635|HBA_PONPY Hemoglobin subunit alpha OS=Pongo pygmaeus OX=9600 GN=HBA1 PE=2 SV=2 
+	 Delta: 3.5751841423348196e-05
+13. sp|P01928|HBA_SAPAP Hemoglobin subunit alpha OS=Sapajus apella OX=9515 GN=HBA PE=1 SV=2 
+	 Delta: 3.575700377211888e-05
+14. sp|P01930|HBA_PILBA Hemoglobin subunit alpha OS=Piliocolobus badius OX=164648 GN=HBA PE=1 SV=2 
+	 Delta: 3.575758798035622e-05
+15. sp|Q5I019|TDRP_XENLA Testis development-related protein OS=Xenopus laevis OX=8355 GN=tdrp PE=2 SV=1 
+	 Delta: 3.579511059115248e-05
+16. sp|P18969|HBA_AILFU Hemoglobin subunit alpha OS=Ailurus fulgens OX=9649 GN=HBA PE=1 SV=2 
+	 Delta: 4.550611396325621e-05
+17. sp|P41330|HBA2_ARCGA Hemoglobin subunit alpha-2 OS=Arctocephalus galapagoensis OX=30584 PE=1 SV=2 
+	 Delta: 4.738779038859775e-05
+18. sp|A0QAA9|DISA_MYCA1 DNA integrity scanning protein DisA OS=Mycobacterium avium (strain 104) OX=243243 GN=disA PE=3 SV=1 
+	 Delta: 0.00010967540740125514
+19. sp|Q743W9|DISA_MYCPA DNA integrity scanning protein DisA OS=Mycolicibacterium paratuberculosis (strain ATCC BAA-968 / K-10) OX=262316 GN=disA PE=3 SV=1 
+	 Delta: 0.00010967540740125514
+20. sp|P65544|MNTH_BRUME Divalent metal cation transporter MntH OS=Brucella melitensis biotype 1 (strain 16M / ATCC 23456 / NCTC 10094) OX=224914 GN=mntH PE=3 SV=1 
+	 Delta: 0.00011012593401460435
+21. sp|P65545|MNTH_BRUSU Divalent metal cation transporter MntH OS=Brucella suis biovar 1 (strain 1330) OX=204722 GN=mntH PE=3 SV=1 
+	 Delta: 0.00011012593401460435
+22. sp|Q93ZK9|FDL29_ARATH F-box/FBD/LRR-repeat protein At5g18770 OS=Arabidopsis thaliana OX=3702 GN=At5g18770 PE=2 SV=1 
+	 Delta: 0.00011090695063842304
+23. sp|P68237|HBA_HELMA Hemoglobin subunit alpha OS=Helarctos malayanus OX=9634 GN=HBA PE=1 SV=2 
+	 Delta: 0.00014079275781853084
+24. sp|P68235|HBA_URSMA Hemoglobin subunit alpha OS=Ursus maritimus OX=29073 GN=HBA PE=1 SV=2 
+	 Delta: 0.00014079275781853084
+25. sp|P68236|HBA_URSTH Hemoglobin subunit alpha OS=Ursus thibetanus OX=9642 GN=HBA PE=1 SV=2 
+	 Delta: 0.00014079275781853084
+26. sp|Q2NUJ7|BIOB_SODGM Biotin synthase OS=Sodalis glossinidius (strain morsitans) OX=343509 GN=bioB PE=3 SV=1 
+	 Delta: 0.00014230100188683537
+27. sp|P01926|HBA_CHLAE Hemoglobin subunit alpha OS=Chlorocebus aethiops OX=9534 GN=HBA PE=1 SV=2 
+	 Delta: 0.00015241062793336368
+28. sp|P63107|HBA_MACFU Hemoglobin subunit alpha OS=Macaca fuscata fuscata OX=9543 GN=HBA PE=1 SV=2 
+	 Delta: 0.00015241062793336368
+29. sp|P63108|HBA_MACMU Hemoglobin subunit alpha OS=Macaca mulatta OX=9544 GN=HBA PE=1 SV=2 
+	 Delta: 0.00015241062793336368
+30. sp|P67817|HBA_ATEGE Hemoglobin subunit alpha OS=Ateles geoffroyi OX=9509 GN=HBA PE=1 SV=2 
+	 Delta: 0.00015241063854887216
+31. sp|Q67SV9|ENO_SYMTH Enolase OS=Symbiobacterium thermophilum (strain T / IAM 14863) OX=292459 GN=eno PE=3 SV=1 
+	 Delta: 0.0001525959025912016
+32. sp|Q9XHM1|EIF3C_MEDTR Eukaryotic translation initiation factor 3 subunit C OS=Medicago truncatula OX=3880 GN=TIF3C1 PE=2 SV=1 
+	 Delta: 0.00017014103690371485
+33. sp|Q9UBN1|CCG4_HUMAN Voltage-dependent calcium channel gamma-4 subunit OS=Homo sapiens OX=9606 GN=CACNG4 PE=1 SV=1 
+	 Delta: 0.00017181200905724836
+34. sp|Q9JJV4|CCG4_MOUSE Voltage-dependent calcium channel gamma-4 subunit OS=Mus musculus OX=10090 GN=Cacng4 PE=1 SV=1 
+	 Delta: 0.00017181200905724836
+35. sp|Q8VHW9|CCG4_RAT Voltage-dependent calcium channel gamma-4 subunit OS=Rattus norvegicus OX=10116 GN=Cacng4 PE=1 SV=1 
+	 Delta: 0.00017181200905724836
+36. sp|P41329|HBA1_ARCGA Hemoglobin subunit alpha-1 OS=Arctocephalus galapagoensis OX=30584 PE=1 SV=2 
+	 Delta: 0.00017276835112056688
+37. sp|P41677|LEF7_NPVAC Late expression factor 7 OS=Autographa californica nuclear polyhedrosis virus OX=46015 GN=LEF-7 PE=1 SV=1 
+	 Delta: 0.00017362794008590754
+38. sp|P60530|HBA_CANLA Hemoglobin subunit alpha OS=Canis latrans OX=9614 GN=HBA PE=1 SV=2 
+	 Delta: 0.00017467326875930667
+39. sp|Q7VCZ9|RS21_PROMA Small ribosomal subunit protein bS21 OS=Prochlorococcus marinus (strain SARG / CCMP1375 / SS120) OX=167539 GN=rpsU PE=3 SV=1 
+	 Delta: 0.00017722393958763405
+40. sp|P01948|HBA_RABIT Hemoglobin subunit alpha-1/2 OS=Oryctolagus cuniculus OX=9986 PE=1 SV=2 
+	 Delta: 0.00018462827794962777
+41. sp|Q2JFW4|MSHD_FRACC Mycothiol acetyltransferase OS=Frankia casuarinae (strain DSM 45818 / CECT 9043 / CcI3) OX=106370 GN=mshD PE=3 SV=1 
+	 Delta: 0.00018502963091293623
+42. sp|B3CSQ9|MURB_ORITI UDP-N-acetylenolpyruvoylglucosamine reductase OS=Orientia tsutsugamushi (strain Ikeda) OX=334380 GN=murB PE=3 SV=1 
+	 Delta: 0.00018708284977719813
+43. sp|Q01822|HXD1_MOUSE Homeobox protein Hox-D1 OS=Mus musculus OX=10090 GN=Hoxd1 PE=2 SV=2 
+	 Delta: 0.00019648627953472442
+44. sp|I3L5V6|SARM1_PIG NAD(+) hydrolase SARM1 OS=Sus scrofa OX=9823 GN=SARM1 PE=2 SV=1 
+	 Delta: 0.00022089537181102514
+45. sp|A8GGZ1|MEND_SERP5 2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase OS=Serratia proteamaculans (strain 568) OX=399741 GN=menD PE=3 SV=1 
+	 Delta: 0.0002224252823026518
+46. sp|A1JKT8|MEND_YERE8 2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase OS=Yersinia enterocolitica serotype O:8 / biotype 1B (strain NCTC 13174 / 8081) OX=393305 GN=menD PE=3 SV=1 
+	 Delta: 0.00022247171749256722
+47. sp|A7FGT2|MEND_YERP3 2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase OS=Yersinia pseudotuberculosis serotype O:1b (strain IP 31758) OX=349747 GN=menD PE=3 SV=1 
+	 Delta: 0.00022247430928246104
+48. sp|Q1C6D7|MEND_YERPA 2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase OS=Yersinia pestis bv. Antiqua (strain Antiqua) OX=360102 GN=menD PE=3 SV=1 
+	 Delta: 0.00022247430928246104
+49. sp|B2K7Z3|MEND_YERPB 2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase OS=Yersinia pseudotuberculosis serotype IB (strain PB1/+) OX=502801 GN=menD PE=3 SV=1 
+	 Delta: 0.00022247430928246104
+50. sp|Q7CJ76|MEND_YERPE 2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase OS=Yersinia pestis OX=632 GN=menD PE=3 SV=1 
+	 Delta: 0.00022247430928246104
+51. sp|A9R6J0|MEND_YERPG 2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase OS=Yersinia pestis bv. Antiqua (strain Angola) OX=349746 GN=menD PE=3 SV=1 
+	 Delta: 0.00022247430928246104
+52. sp|Q1CHS9|MEND_YERPN 2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase OS=Yersinia pestis bv. Antiqua (strain Nepal516) OX=377628 GN=menD PE=3 SV=1 
+	 Delta: 0.00022247430928246104
+53. sp|A4TM08|MEND_YERPP 2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase OS=Yersinia pestis (strain Pestoides F) OX=386656 GN=menD PE=3 SV=1 
+	 Delta: 0.00022247430928246104
+54. sp|Q669C7|MEND_YERPS 2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase OS=Yersinia pseudotuberculosis serotype I (strain IP32953) OX=273123 GN=menD PE=3 SV=1 
+	 Delta: 0.00022247430928246104
+55. sp|B1JH88|MEND_YERPY 2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase OS=Yersinia pseudotuberculosis serotype O:3 (strain YPIII) OX=502800 GN=menD PE=3 SV=1 
+	 Delta: 0.00022247430928246104
+56. sp|P20152|VIME_MOUSE Vimentin OS=Mus musculus OX=10090 GN=Vim PE=1 SV=3 
+	 Delta: 0.00022944991022200156
+57. sp|P31000|VIME_RAT Vimentin OS=Rattus norvegicus OX=10116 GN=Vim PE=1 SV=2 
+	 Delta: 0.00022944991022200156
+58. sp|P02544|VIME_MESAU Vimentin OS=Mesocricetus auratus OX=10036 GN=VIM PE=1 SV=2 
+	 Delta: 0.00022947360814384865
+59. sp|P48616|VIME_BOVIN Vimentin OS=Bos taurus OX=9913 GN=VIM PE=1 SV=3 
+	 Delta: 0.00022947830078123843
+60. sp|Q9MZA9|VIME_SHEEP Vimentin (Fragment) OS=Ovis aries OX=9940 GN=VIM PE=2 SV=3 
+	 Delta: 0.00022947830078123843
+61. sp|P08670|VIME_HUMAN Vimentin OS=Homo sapiens OX=9606 GN=VIM PE=1 SV=4 
+	 Delta: 0.0002294783011649315
+62. sp|Q5R1W8|VIME_PANTR Vimentin OS=Pan troglodytes OX=9598 GN=VIM PE=2 SV=4 
+	 Delta: 0.0002294783011649315
+63. sp|Q9GZZ0|HXD1_HUMAN Homeobox protein Hox-D1 OS=Homo sapiens OX=9606 GN=HOXD1 PE=2 SV=1 
+	 Delta: 0.00023271393577317667
+64. sp|Q9SA86|BBE9_ARATH Berberine bridge enzyme-like 9 OS=Arabidopsis thaliana OX=3702 GN=At1g30710 PE=2 SV=1 
+	 Delta: 0.00025457166984210744
+65. sp|Q9HDX4|MFC1_SCHPO Uncharacterized transporter mfc1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=mfc1 PE=3 SV=2 
+	 Delta: 0.0002776623267521927
+66. sp|A4KXB4|Y059_HVAVE Uncharacterized protein ORF59 OS=Heliothis virescens ascovirus 3e OX=260797 GN=ORF59 PE=3 SV=1 
+	 Delta: 0.0002781857070033311
+67. sp|Q5YQ76|GLYA_NOCFA Serine hydroxymethyltransferase OS=Nocardia farcinica (strain IFM 10152) OX=247156 GN=glyA PE=3 SV=1 
+	 Delta: 0.00028615630552053517
+68. sp|Q6BS08|ATG1_DEBHA Serine/threonine-protein kinase ATG1 OS=Debaryomyces hansenii (strain ATCC 36239 / CBS 767 / BCRC 21394 / JCM 1990 / NBRC 0083 / IGC 2968) OX=284592 GN=ATG1 PE=3 SV=2 
+	 Delta: 0.00029395815103328005
+69. sp|Q2SKX1|KDSA_HAHCH 2-dehydro-3-deoxyphosphooctonate aldolase OS=Hahella chejuensis (strain KCTC 2396) OX=349521 GN=kdsA PE=3 SV=1 
+	 Delta: 0.0002973806883943553
+70. sp|Q6D7W4|MEND_PECAS 2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase OS=Pectobacterium atrosepticum (strain SCRI 1043 / ATCC BAA-672) OX=218491 GN=menD PE=3 SV=1 
+	 Delta: 0.0003301480157062997
+71. sp|C6DBP2|MEND_PECCP 2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase OS=Pectobacterium carotovorum subsp. carotovorum (strain PC1) OX=561230 GN=menD PE=3 SV=1 
+	 Delta: 0.00033014803103981194
+72. sp|A7Z8R5|CYSI_BACVZ Sulfite reductase [NADPH] hemoprotein beta-component OS=Bacillus velezensis (strain DSM 23117 / BGSC 10A6 / LMG 26770 / FZB42) OX=326423 GN=cysI PE=3 SV=1 
+	 Delta: 0.00034188558436198946
+73. sp|B9JQW1|PYRE_ALLAM Orotate phosphoribosyltransferase OS=Allorhizobium ampelinum (strain ATCC BAA-846 / DSM 112012 / S4) OX=311402 GN=pyrE PE=3 SV=1 
+	 Delta: 0.00034407703704175674
+74. sp|Q8PJK3|HTPG_XANAC Chaperone protein HtpG OS=Xanthomonas axonopodis pv. citri (strain 306) OX=190486 GN=htpG PE=3 SV=1 
+	 Delta: 0.00034456837985885613
+75. sp|Q3BS21|HTPG_XANC5 Chaperone protein HtpG OS=Xanthomonas campestris pv. vesicatoria (strain 85-10) OX=316273 GN=htpG PE=3 SV=1 
+	 Delta: 0.00034456837985885613
+76. sp|P79076|P2OX_TRAVE Pyranose 2-oxidase OS=Trametes versicolor OX=5325 GN=P2OX PE=1 SV=1 
+	 Delta: 0.0003758259052659696
+77. sp|Q4L330|METE_STAHJ 5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase OS=Staphylococcus haemolyticus (strain JCSC1435) OX=279808 GN=metE PE=3 SV=1 
+	 Delta: 0.000409663511504732
+78. sp|Q8J136|P2OX_PENSG Pyranose 2-oxidase OS=Peniophora sp. (strain SG) OX=204723 GN=p2ox PE=1 SV=1 
+	 Delta: 0.00041157775743272396
+79. sp|Q31I42|DDL_HYDCU D-alanine--D-alanine ligase OS=Hydrogenovibrio crunogenus (strain DSM 25203 / XCL-2) OX=317025 GN=ddl PE=3 SV=1 
+	 Delta: 0.0004752229546625131
+80. sp|O30973|TRXB_MYCSM Thioredoxin reductase OS=Mycolicibacterium smegmatis OX=1772 GN=trxB PE=3 SV=1 
+	 Delta: 0.0004977854273278126
+81. sp|A8MQL7|RLF20_ARATH Protein RALF-like 20 OS=Arabidopsis thaliana OX=3702 GN=RALFL20 PE=3 SV=1 
+	 Delta: 0.0005314100221198714
+82. sp|Q57KH7|CYSJ_SALCH Sulfite reductase [NADPH] flavoprotein alpha-component OS=Salmonella choleraesuis (strain SC-B67) OX=321314 GN=cysJ PE=3 SV=3 
+	 Delta: 0.0005466556865485472
+83. sp|Q5PEH7|CYSJ_SALPA Sulfite reductase [NADPH] flavoprotein alpha-component OS=Salmonella paratyphi A (strain ATCC 9150 / SARB42) OX=295319 GN=cysJ PE=3 SV=3 
+	 Delta: 0.0005466556865485472
+84. sp|A9N2E6|CYSJ_SALPB Sulfite reductase [NADPH] flavoprotein alpha-component OS=Salmonella paratyphi B (strain ATCC BAA-1250 / SPB7) OX=1016998 GN=cysJ PE=3 SV=1 
+	 Delta: 0.0005466556865485472
+85. sp|Q8Z458|CYSJ_SALTI Sulfite reductase [NADPH] flavoprotein alpha-component OS=Salmonella typhi OX=90370 GN=cysJ PE=3 SV=3 
+	 Delta: 0.0005466556865485472
+86. sp|P38039|CYSJ_SALTY Sulfite reductase [NADPH] flavoprotein alpha-component OS=Salmonella typhimurium (strain LT2 / SGSC1412 / ATCC 700720) OX=99287 GN=cysJ PE=3 SV=2 
+	 Delta: 0.0005466556865485472
+87. sp|Q5G234|P2OX_TRAPU Pyranose 2-oxidase OS=Trametes pubescens OX=154538 GN=p2ox PE=1 SV=1 
+	 Delta: 0.0005538771182642677
+88. sp|C3MEJ2|HRCA_SINFN Heat-inducible transcription repressor HrcA OS=Sinorhizobium fredii (strain NBRC 101917 / NGR234) OX=394 GN=hrcA PE=3 SV=1 
+	 Delta: 0.0005890989440331396
+89. sp|Q8BYA0|TBCD_MOUSE Tubulin-specific chaperone D OS=Mus musculus OX=10090 GN=Tbcd PE=1 SV=1 
+	 Delta: 0.0006110526906439873
+90. sp|F4HSD4|OBGM_ARATH Probable GTP-binding protein OBGM, mitochondrial OS=Arabidopsis thaliana OX=3702 GN=ATOBGM PE=2 SV=1 
+	 Delta: 0.0006242896489538907
+91. sp|A3LR41|TOF1_PICST Topoisomerase 1-associated factor 1 OS=Scheffersomyces stipitis (strain ATCC 58785 / CBS 6054 / NBRC 10063 / NRRL Y-11545) OX=322104 GN=TOF1 PE=3 SV=2 
+	 Delta: 0.0006496338601778007
+92. sp|A1AQL5|AROB_PELPD 3-dehydroquinate synthase OS=Pelobacter propionicus (strain DSM 2379 / NBRC 103807 / OttBd1) OX=338966 GN=aroB PE=3 SV=1 
+	 Delta: 0.0006556961048573839
+93. sp|Q9I869|KF22A_XENLA Kinesin-like protein KIF22-A OS=Xenopus laevis OX=8355 GN=kif22-a PE=1 SV=1 
+	 Delta: 0.0006582348757291356
+94. sp|A6U7C5|NADA_SINMW Quinolinate synthase OS=Sinorhizobium medicae (strain WSM419) OX=366394 GN=nadA PE=3 SV=1 
+	 Delta: 0.0006780930844172417
+95. sp|A4VM82|MTND_STUS1 Acireductone dioxygenase OS=Stutzerimonas stutzeri (strain A1501) OX=379731 GN=mtnD PE=3 SV=1 
+	 Delta: 0.0006882358979396486
+96. sp|A7Z1M9|RSBW_BACVZ Serine-protein kinase RsbW OS=Bacillus velezensis (strain DSM 23117 / BGSC 10A6 / LMG 26770 / FZB42) OX=326423 GN=rsbW PE=3 SV=1 
+	 Delta: 0.0006911329155201429
+97. sp|Q882A9|NUDC_PSESM NAD-capped RNA hydrolase NudC OS=Pseudomonas syringae pv. tomato (strain ATCC BAA-871 / DC3000) OX=223283 GN=nudC PE=3 SV=1 
+	 Delta: 0.0007312852206808884
+98. sp|Q4VZH3|RR4_CUCSA Small ribosomal subunit protein uS4c OS=Cucumis sativus OX=3659 GN=rps4 PE=3 SV=1 
+	 Delta: 0.0007569922763792647
+99. sp|Q2K3D7|TSAD_RHIEC tRNA N6-adenosine threonylcarbamoyltransferase OS=Rhizobium etli (strain CFN 42 / ATCC 51251) OX=347834 GN=tsaD PE=3 SV=2 
+	 Delta: 0.000759258618117542
+100. sp|Q04M45|NUSB_STRP2 Transcription antitermination protein NusB OS=Streptococcus pneumoniae serotype 2 (strain D39 / NCTC 7466) OX=373153 GN=nusB PE=3 SV=1 
+	 Delta: 0.0007673572672644013
+
+
+top 100 for sp|P01308.1|INS_HUMAN
+1. sp|F8WCM5|INSR2_HUMAN Insulin, isoform 2 OS=Homo sapiens OX=9606 GN=INS-IGF2 PE=1 SV=1 
+	 Delta: 0.0
+2. sp|Q6YK33|INS_GORGO Insulin OS=Gorilla gorilla gorilla OX=9595 GN=INS PE=3 SV=1 
+	 Delta: 0.0
+3. sp|P01308|INS_HUMAN Insulin OS=Homo sapiens OX=9606 GN=INS PE=1 SV=1 
+	 Delta: 0.0
+4. sp|P30406|INS_MACFA Insulin OS=Macaca fascicularis OX=9541 GN=INS PE=3 SV=1 
+	 Delta: 4.779963092005346e-10
+5. sp|Q8HXV2|INS_PONPY Insulin OS=Pongo pygmaeus OX=9600 GN=INS PE=3 SV=1 
+	 Delta: 5.098570454720175e-10
+6. sp|P30407|INS_CHLAE Insulin OS=Chlorocebus aethiops OX=9534 GN=INS PE=1 SV=1 
+	 Delta: 2.485577965671837e-09
+7. sp|P01321|INS_CANLF Insulin OS=Canis lupus familiaris OX=9615 GN=INS PE=1 SV=1 
+	 Delta: 4.668420672260254e-08
+8. sp|Q62587|INS_PSAOB Insulin OS=Psammomys obesus OX=48139 GN=INS PE=3 SV=1 
+	 Delta: 9.619815401151754e-06
+9. sp|Q9H3S4|TPK1_HUMAN Thiamin pyrophosphokinase 1 OS=Homo sapiens OX=9606 GN=TPK1 PE=1 SV=1 
+	 Delta: 2.0132769094516334e-05
+10. sp|B4SGC3|MUTL_PELPB DNA mismatch repair protein MutL OS=Pelodictyon phaeoclathratiforme (strain DSM 5477 / BU-1) OX=324925 GN=mutL PE=3 SV=1 
+	 Delta: 2.1711614067498886e-05
+11. sp|Q9R0M5|TPK1_MOUSE Thiamin pyrophosphokinase 1 OS=Mus musculus OX=10090 GN=Tpk1 PE=1 SV=1 
+	 Delta: 2.5777384308867113e-05
+12. sp|B2UT94|DDL_HELPS D-alanine--D-alanine ligase OS=Helicobacter pylori (strain Shi470) OX=512562 GN=ddl PE=3 SV=1 
+	 Delta: 3.0054352095021386e-05
+13. sp|B6JLX1|DDL_HELP2 D-alanine--D-alanine ligase OS=Helicobacter pylori (strain P12) OX=570508 GN=ddl PE=3 SV=1 
+	 Delta: 3.0054360323106266e-05
+14. sp|Q1CTD3|DDL_HELPH D-alanine--D-alanine ligase OS=Helicobacter pylori (strain HPAG1) OX=357544 GN=ddl PE=3 SV=1 
+	 Delta: 3.005436268210815e-05
+15. sp|Q9ZLA5|DDL_HELPJ D-alanine--D-alanine ligase OS=Helicobacter pylori (strain J99 / ATCC 700824) OX=85963 GN=ddl PE=3 SV=1 
+	 Delta: 3.005436268210815e-05
+16. sp|P56191|DDL_HELPY D-alanine--D-alanine ligase OS=Helicobacter pylori (strain ATCC 700392 / 26695) OX=85962 GN=ddl PE=1 SV=1 
+	 Delta: 3.005436268210815e-05
+17. sp|Q38WS5|UVRC_LATSS UvrABC system protein C OS=Latilactobacillus sakei subsp. sakei (strain 23K) OX=314315 GN=uvrC PE=3 SV=1 
+	 Delta: 3.055629390757986e-05
+18. sp|Q03F33|UVRC_PEDPA UvrABC system protein C OS=Pediococcus pentosaceus (strain ATCC 25745 / CCUG 21536 / LMG 10740 / 183-1w) OX=278197 GN=uvrC PE=3 SV=1 
+	 Delta: 3.1115385581870214e-05
+19. sp|Q7TX57|NUOI_MYCBO NADH-quinone oxidoreductase subunit I OS=Mycobacterium bovis (strain ATCC BAA-935 / AF2122/97) OX=233413 GN=nuoI PE=3 SV=1 
+	 Delta: 4.850668763367594e-05
+20. sp|A1KNE9|NUOI_MYCBP NADH-quinone oxidoreductase subunit I OS=Mycobacterium bovis (strain BCG / Pasteur 1173P2) OX=410289 GN=nuoI PE=3 SV=1 
+	 Delta: 4.850668763367594e-05
+21. sp|C1AGS0|NUOI_MYCBT NADH-quinone oxidoreductase subunit I OS=Mycobacterium bovis (strain BCG / Tokyo 172 / ATCC 35737 / TMC 1019) OX=561275 GN=nuoI PE=3 SV=1 
+	 Delta: 4.850668763367594e-05
+22. sp|A5U7G9|NUOI_MYCTA NADH-quinone oxidoreductase subunit I OS=Mycobacterium tuberculosis (strain ATCC 25177 / H37Ra) OX=419947 GN=nuoI PE=3 SV=1 
+	 Delta: 4.850668763367594e-05
+23. sp|P9WJG8|NUOI_MYCTO NADH-quinone oxidoreductase subunit I OS=Mycobacterium tuberculosis (strain CDC 1551 / Oshkosh) OX=83331 GN=nuoI PE=3 SV=1 
+	 Delta: 4.850668763367594e-05
+24. sp|P9WJG9|NUOI_MYCTU NADH-quinone oxidoreductase subunit I OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=nuoI PE=1 SV=1 
+	 Delta: 4.850668763367594e-05
+25. sp|A1WIH0|TRMB_VEREI tRNA (guanine-N(7)-)-methyltransferase OS=Verminephrobacter eiseniae (strain EF01-2) OX=391735 GN=trmB PE=3 SV=1 
+	 Delta: 6.455194252907859e-05
+26. sp|Q49XK7|TELL_STAS1 TelA-like protein SSP1345 OS=Staphylococcus saprophyticus subsp. saprophyticus (strain ATCC 15305 / DSM 20229 / NCIMB 8711 / NCTC 7292 / S-41) OX=342451 GN=SSP1345 PE=3 SV=1 
+	 Delta: 6.535238422600287e-05
+27. sp|Q04JL4|Y1364_STRP2 UPF0213 protein SPD_1364 OS=Streptococcus pneumoniae serotype 2 (strain D39 / NCTC 7466) OX=373153 GN=SPD_1364 PE=3 SV=1 
+	 Delta: 9.906559414218918e-05
+28. sp|Q8DP31|Y1390_STRR6 UPF0213 protein spr1390 OS=Streptococcus pneumoniae (strain ATCC BAA-255 / R6) OX=171101 GN=spr1390 PE=3 SV=1 
+	 Delta: 9.906559414218918e-05
+29. sp|Q97PR7|Y1535_STRPN UPF0213 protein SP_1535 OS=Streptococcus pneumoniae serotype 4 (strain ATCC BAA-334 / TIGR4) OX=170187 GN=SP_1535 PE=1 SV=1 
+	 Delta: 9.906559414218918e-05
+30. sp|P30410|INS_PANTR Insulin OS=Pan troglodytes OX=9598 GN=INS PE=1 SV=1 
+	 Delta: 0.00011854618824713725
+31. sp|Q8REL0|UVRC_FUSNN UvrABC system protein C OS=Fusobacterium nucleatum subsp. nucleatum (strain ATCC 25586 / DSM 15643 / BCRC 10681 / CIP 101130 / JCM 8532 / KCTC 2640 / LMG 13131 / VPI 4355) OX=190304 GN=uvrC PE=3 SV=1 
+	 Delta: 0.0001338034595477211
+32. sp|Q8QL85|LEF11_NPVMC Late expression factor 11 OS=Mamestra configurata nucleopolyhedrovirus OX=191492 GN=LEF-11 PE=3 SV=1 
+	 Delta: 0.00014960693130205982
+33. sp|Q96EP9|NTCP4_HUMAN Sodium/bile acid cotransporter 4 OS=Homo sapiens OX=9606 GN=SLC10A4 PE=1 SV=2 
+	 Delta: 0.00021311500609044742
+34. sp|Q50JE5|ACE_MESAU Angiotensin-converting enzyme OS=Mesocricetus auratus OX=10036 GN=Ace PE=2 SV=1 
+	 Delta: 0.00026886998203679013
+35. sp|P62006|RL40_PYRAB Large ribosomal subunit protein eL40 OS=Pyrococcus abyssi (strain GE5 / Orsay) OX=272844 GN=rpl40e PE=3 SV=1 
+	 Delta: 0.0002841278922858237
+36. sp|P62007|RL40_PYRHO Large ribosomal subunit protein eL40 OS=Pyrococcus horikoshii (strain ATCC 700860 / DSM 12428 / JCM 9974 / NBRC 100139 / OT-3) OX=70601 GN=rpl40e PE=3 SV=1 
+	 Delta: 0.0002841278922858237
+37. sp|Q8U0V6|RL40_PYRFU Large ribosomal subunit protein eL40 OS=Pyrococcus furiosus (strain ATCC 43587 / DSM 3638 / JCM 8422 / Vc1) OX=186497 GN=rpl40e PE=1 SV=1 
+	 Delta: 0.00028503388490719317
+38. sp|C5A241|RL40_THEGJ Large ribosomal subunit protein eL40 OS=Thermococcus gammatolerans (strain DSM 15229 / JCM 11827 / EJ3) OX=593117 GN=rpl40e PE=3 SV=1 
+	 Delta: 0.00029458939398807615
+39. sp|Q5JJD3|RL40_THEKO Large ribosomal subunit protein eL40 OS=Thermococcus kodakarensis (strain ATCC BAA-918 / JCM 12380 / KOD1) OX=69014 GN=rpl40e PE=1 SV=1 
+	 Delta: 0.0002954953863394394
+40. sp|B6YSR1|RL40_THEON Large ribosomal subunit protein eL40 OS=Thermococcus onnurineus (strain NA1) OX=523850 GN=rpl40e PE=3 SV=1 
+	 Delta: 0.0002973073726053599
+41. sp|Q948L5|KNOS7_ORYSJ Homeobox protein knotted-1-like 7 OS=Oryza sativa subsp. japonica OX=39947 GN=OSH3 PE=2 SV=1 
+	 Delta: 0.00033851823377517576
+42. sp|P9WGQ2|Y1714_MYCTO Uncharacterized oxidoreductase MT1753.1 OS=Mycobacterium tuberculosis (strain CDC 1551 / Oshkosh) OX=83331 GN=MT1753.1 PE=3 SV=1 
+	 Delta: 0.0003426442906260263
+43. sp|P9WGQ3|Y1714_MYCTU Uncharacterized oxidoreductase Rv1714 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1714 PE=3 SV=1 
+	 Delta: 0.0003426442906260263
+44. sp|O28842|RL40_ARCFU Large ribosomal subunit protein eL40 OS=Archaeoglobus fulgidus (strain ATCC 49558 / DSM 4304 / JCM 9628 / NBRC 100126 / VC-16) OX=224325 GN=rpl40e PE=3 SV=1 
+	 Delta: 0.000344560290869822
+45. sp|Q9C9H1|GIS3_ARATH Zinc finger protein GIS3 OS=Arabidopsis thaliana OX=3702 GN=GIS3 PE=1 SV=1 
+	 Delta: 0.0003632302174310098
+46. sp|Q53217|Y4VI_SINFN Uncharacterized short-chain type dehydrogenase/reductase y4vI OS=Sinorhizobium fredii (strain NBRC 101917 / NGR234) OX=394 GN=NGR_a01150 PE=3 SV=2 
+	 Delta: 0.0003670181198458522
+47. sp|Q9NXV6|CARF_HUMAN CDKN2A-interacting protein OS=Homo sapiens OX=9606 GN=CDKN2AIP PE=1 SV=3 
+	 Delta: 0.00037582235695765576
+48. sp|Q8BI72|CARF_MOUSE CDKN2A-interacting protein OS=Mus musculus OX=10090 GN=Cdkn2aip PE=1 SV=1 
+	 Delta: 0.0003758278096483991
+49. sp|Q5U2X0|CARF_RAT CDKN2A-interacting protein OS=Rattus norvegicus OX=10116 GN=Cdkn2aip PE=1 SV=1 
+	 Delta: 0.0003758278096483991
+50. sp|Q2FS38|RL40_METHJ Large ribosomal subunit protein eL40 OS=Methanospirillum hungatei JF-1 (strain ATCC 27890 / DSM 864 / NBRC 100397 / JF-1) OX=323259 GN=rpl40e PE=3 SV=1 
+	 Delta: 0.00037840466825400654
+51. sp|A3CXS2|RL40_METMJ Large ribosomal subunit protein eL40 OS=Methanoculleus marisnigri (strain ATCC 35101 / DSM 1498 / JR1) OX=368407 GN=rpl40e PE=3 SV=1 
+	 Delta: 0.00037841234323821027
+52. sp|P56608|SCX3_TITBA Toxin Tb3 OS=Tityus bahiensis OX=50343 PE=1 SV=1 
+	 Delta: 0.00038235181344248304
+53. sp|A8HPM5|PSBS2_CHLRE Photosystem II protein PSBS2 OS=Chlamydomonas reinhardtii OX=3055 GN=PSBS2 PE=1 SV=1 
+	 Delta: 0.00038819096448605706
+54. sp|A8HPM2|PSBS1_CHLRE Photosystem II protein PSBS1 OS=Chlamydomonas reinhardtii OX=3055 GN=PSBS1 PE=1 SV=1 
+	 Delta: 0.00038819096461395475
+55. sp|P12860|G3PB_SPIOL Glyceraldehyde-3-phosphate dehydrogenase B, chloroplastic OS=Spinacia oleracea OX=3562 GN=GAPB PE=1 SV=1 
+	 Delta: 0.00040724291859817185
+56. sp|P53215|THG1_YEAST tRNA(His) guanylyltransferase OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=THG1 PE=1 SV=1 
+	 Delta: 0.0004104778683284849
+57. sp|A8HUA1|CFA58_CHLRE Cilia- and flagella-associated protein 58 OS=Chlamydomonas reinhardtii OX=3055 GN=CFAP58 PE=1 SV=1 
+	 Delta: 0.00041533311299701836
+58. sp|D4GV73|R15PI_HALVD Ribose 1,5-bisphosphate isomerase OS=Haloferax volcanii (strain ATCC 29605 / DSM 3757 / JCM 8879 / NBRC 14742 / NCIMB 2012 / VKM B-1768 / DS2) OX=309800 GN=HVO_0966 PE=1 SV=1 
+	 Delta: 0.0004161983033981187
+59. sp|P58465|CTDSL_MOUSE CTD small phosphatase-like protein OS=Mus musculus OX=10090 GN=Ctdspl PE=2 SV=3 
+	 Delta: 0.00041882089102784903
+60. sp|O15194|CTDSL_HUMAN CTD small phosphatase-like protein OS=Homo sapiens OX=9606 GN=CTDSPL PE=1 SV=2 
+	 Delta: 0.00041885989524814704
+61. sp|P0A9S2|FUCO_ECO57 Lactaldehyde reductase OS=Escherichia coli O157:H7 OX=83334 GN=fucO PE=3 SV=2 
+	 Delta: 0.00042937241136087323
+62. sp|P0A9S1|FUCO_ECOLI Lactaldehyde reductase OS=Escherichia coli (strain K12) OX=83333 GN=fucO PE=1 SV=2 
+	 Delta: 0.00042937241136087323
+63. sp|Q10E50|PLA23_ORYSJ Phospholipase A2 homolog 3 OS=Oryza sativa subsp. japonica OX=39947 GN=PLA2-III PE=1 SV=1 
+	 Delta: 0.00043956803716582726
+64. sp|Q5ZIV7|DESI2_CHICK Deubiquitinase DESI2 OS=Gallus gallus OX=9031 GN=DESI2 PE=2 SV=1 
+	 Delta: 0.0004548326606226283
+65. sp|P0C777|MP1_CARMS Double gene block protein 1 OS=Carnation mottle virus (isolate China/Shanghai) OX=652111 GN=ORF2 PE=1 SV=1 
+	 Delta: 0.00045721705288315206
+66. sp|Q7F8U7|BURPD_ORYSJ BURP domain-containing protein 13 OS=Oryza sativa subsp. japonica OX=39947 GN=BURP13 PE=1 SV=1 
+	 Delta: 0.0004966510437895977
+67. sp|Q12232|SLP1_YEAST Uncharacterized protein SLP1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=SLP1 PE=1 SV=1 
+	 Delta: 0.0004987436805663492
+68. sp|P11471|PSBP_CHLRE Oxygen-evolving enhancer protein 2, chloroplastic OS=Chlamydomonas reinhardtii OX=3055 GN=PSBP PE=1 SV=1 
+	 Delta: 0.0005057525565774768
+69. sp|Q0W4J1|RL40_METAR Large ribosomal subunit protein eL40 OS=Methanocella arvoryzae (strain DSM 22066 / NBRC 105507 / MRE50) OX=351160 GN=rpl40e PE=3 SV=1 
+	 Delta: 0.000508913963045643
+70. sp|Q9P4E9|GSP1_CANAW GTP-binding nuclear protein GSP1/Ran OS=Candida albicans (strain WO-1) OX=294748 GN=GSP1 PE=3 SV=2 
+	 Delta: 0.0005149582223680227
+71. sp|Q8DI95|YCF48_THEVB Photosystem II assembly protein Ycf48 OS=Thermosynechococcus vestitus (strain NIES-2133 / IAM M-273 / BP-1) OX=197221 GN=ycf48 PE=1 SV=1 
+	 Delta: 0.0005173327371750247
+72. sp|P46115|SCX5_TITSE Alpha-toxin Ts5 OS=Tityus serrulatus OX=6887 PE=1 SV=1 
+	 Delta: 0.0005277523500950565
+73. sp|P0DSO4|SCX3_TITFA Beta-toxin Tf3 OS=Tityus fasciolatus OX=203543 PE=3 SV=1 
+	 Delta: 0.0005321429284066426
+74. sp|Q9TIR3|MATK_APHFC Maturase K OS=Aphyllon fasciculatum OX=48537 GN=matK PE=3 SV=1 
+	 Delta: 0.0005561335595274386
+75. sp|Q9NYJ8|TAB2_HUMAN TGF-beta-activated kinase 1 and MAP3K7-binding protein 2 OS=Homo sapiens OX=9606 GN=TAB2 PE=1 SV=1 
+	 Delta: 0.000560788265033807
+76. sp|Q99K90|TAB2_MOUSE TGF-beta-activated kinase 1 and MAP3K7-binding protein 2 OS=Mus musculus OX=10090 GN=Tab2 PE=1 SV=1 
+	 Delta: 0.000560788265033807
+77. sp|Q5U303|TAB2_RAT TGF-beta-activated kinase 1 and MAP3K7-binding protein 2 OS=Rattus norvegicus OX=10116 GN=Tab2 PE=2 SV=2 
+	 Delta: 0.000560788265033807
+78. sp|Q80YD6|SRGEF_MOUSE Secretion-regulating guanine nucleotide exchange factor OS=Mus musculus OX=10090 GN=Sergef PE=2 SV=2 
+	 Delta: 0.0005691113891685973
+79. sp|Q6AYD6|PDLI2_RAT PDZ and LIM domain protein 2 OS=Rattus norvegicus OX=10116 GN=Pdlim2 PE=1 SV=1 
+	 Delta: 0.0005776319163004473
+80. sp|P47820|ACE_RAT Angiotensin-converting enzyme OS=Rattus norvegicus OX=10116 GN=Ace PE=1 SV=1 
+	 Delta: 0.000583383166826934
+81. sp|P09470|ACE_MOUSE Angiotensin-converting enzyme OS=Mus musculus OX=10090 GN=Ace PE=1 SV=3 
+	 Delta: 0.0005833832737209832
+82. sp|Q5B5I6|MED10_EMENI Mediator of RNA polymerase II transcription subunit 10 OS=Emericella nidulans (strain FGSC A4 / ATCC 38163 / CBS 112.46 / NRRL 194 / M139) OX=227321 GN=nut2 PE=3 SV=2 
+	 Delta: 0.0005875557155263778
+83. sp|O66994|Y812_AQUAE Uncharacterized MscS family protein aq_812 OS=Aquifex aeolicus (strain VF5) OX=224324 GN=aq_812 PE=3 SV=1 
+	 Delta: 0.0005904366313274068
+84. sp|Q11072|YT44_CAEEL Uncharacterized RING finger protein B0416.4 OS=Caenorhabditis elegans OX=6239 GN=B0416.4 PE=4 SV=1 
+	 Delta: 0.0006173516522380851
+85. sp|Q4UNK3|THIO_RICFE Thioredoxin OS=Rickettsia felis (strain ATCC VR-1525 / URRWXCal2) OX=315456 GN=trxA PE=3 SV=2 
+	 Delta: 0.0006439781860763105
+86. sp|D2HHP1|WEE2_AILME Wee1-like protein kinase 2 OS=Ailuropoda melanoleuca OX=9646 GN=WEE2 PE=3 SV=1 
+	 Delta: 0.0006834783249729526
+87. sp|E2RSS3|WEE2_CANLF Wee1-like protein kinase 2 OS=Canis lupus familiaris OX=9615 GN=WEE2 PE=3 SV=1 
+	 Delta: 0.0006845933927053238
+88. sp|Q84JG5|HLL_ARATH Large ribosomal subunit protein uL14my OS=Arabidopsis thaliana OX=3702 GN=HLL PE=2 SV=1 
+	 Delta: 0.0006950008702375499
+89. sp|B0SAG3|RL10_LEPBA Large ribosomal subunit protein uL10 OS=Leptospira biflexa serovar Patoc (strain Patoc 1 / Ames) OX=355278 GN=rplJ PE=3 SV=1 
+	 Delta: 0.0007021357025109864
+90. sp|B0SSI6|RL10_LEPBP Large ribosomal subunit protein uL10 OS=Leptospira biflexa serovar Patoc (strain Patoc 1 / ATCC 23582 / Paris) OX=456481 GN=rplJ PE=3 SV=1 
+	 Delta: 0.0007021357025109864
+91. sp|Q9NQG1|MANBL_HUMAN Protein MANBAL OS=Homo sapiens OX=9606 GN=MANBAL PE=1 SV=1 
+	 Delta: 0.0007048192018004329
+92. sp|O94646|MED8_SCHPO Mediator of RNA polymerase II transcription subunit 8 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=med8 PE=1 SV=1 
+	 Delta: 0.0007329096337116425
+93. sp|P01388|3L22_NAJME Long neurotoxin 2 OS=Naja melanoleuca OX=8643 PE=1 SV=1 
+	 Delta: 0.0007686258821024694
+94. sp|P0DQQ2|3L24_NAJME Long neurotoxin Tx-NM3-1 OS=Naja melanoleuca OX=8643 PE=1 SV=1 
+	 Delta: 0.0007686258829551207
+95. sp|P01389|3L21_NAJAC Long neurotoxin 1 OS=Naja anchietae OX=263737 PE=1 SV=1 
+	 Delta: 0.0007804945901312976
+96. sp|P25674|3L21_NAJHH Long neurotoxin 1 OS=Naja haje haje OX=8642 PE=1 SV=1 
+	 Delta: 0.0007805432404524026
+97. sp|P01390|3L21_NAJNI Long neurotoxin 1 OS=Naja nivea OX=8655 PE=1 SV=1 
+	 Delta: 0.0007805432404524026
+98. sp|Q0VCY1|VAPA_BOVIN Vesicle-associated membrane protein-associated protein A OS=Bos taurus OX=9913 GN=VAPA PE=2 SV=1 
+	 Delta: 0.0008287861264335561
+99. sp|P52042|ACDS_CLOAB Acyl-CoA dehydrogenase, short-chain specific OS=Clostridium acetobutylicum (strain ATCC 824 / DSM 792 / JCM 1419 / LMG 5710 / VKM B-1787) OX=272562 GN=bcd PE=1 SV=1 
+	 Delta: 0.0008472897195019868
+100. sp|Q6P9Z6|TACD2_RAT Tumor-associated calcium signal transducer 2 OS=Rattus norvegicus OX=10116 GN=Tacstd2 PE=2 SV=1 
+	 Delta: 0.0008510205402529891
+
+
+top 100 for sp|P01275.3|GLUC_HUMAN
+1. sp|P29794|GLUC_CANLF Pro-glucagon OS=Canis lupus familiaris OX=9615 GN=GCG PE=1 SV=2 
+	 Delta: 0.0
+2. sp|P01275|GLUC_HUMAN Pro-glucagon OS=Homo sapiens OX=9606 GN=GCG PE=1 SV=3 
+	 Delta: 0.0
+3. sp|P22890|GLUC_OCTDE Pro-glucagon OS=Octodon degus OX=10160 GN=GCG PE=2 SV=1 
+	 Delta: 3.154809746774845e-09
+4. sp|B9KGB2|HEM1_CAMLR Glutamyl-tRNA reductase OS=Campylobacter lari (strain RM2100 / D67 / ATCC BAA-1060) OX=306263 GN=hemA PE=3 SV=1 
+	 Delta: 6.728414206236266e-06
+5. sp|Q5ZJV6|RCAN3_CHICK Calcipressin-3 OS=Gallus gallus OX=9031 GN=RCAN3 PE=2 SV=2 
+	 Delta: 8.200140641179132e-06
+6. sp|B8NW70|CELB_ASPFN Probable endo-beta-1,4-glucanase celB OS=Aspergillus flavus (strain ATCC 200026 / FGSC A1120 / IAM 13836 / NRRL 3357 / JCM 12722 / SRRC 167) OX=332952 GN=celB PE=3 SV=1 
+	 Delta: 5.0765237617156345e-05
+7. sp|Q2TX26|CELB_ASPOR Endo-beta-1,4-glucanase celB OS=Aspergillus oryzae (strain ATCC 42149 / RIB 40) OX=510516 GN=celB PE=1 SV=1 
+	 Delta: 5.0765237617156345e-05
+8. sp|Q7CQ56|MENB_SALTY 1,4-dihydroxy-2-naphthoyl-CoA synthase OS=Salmonella typhimurium (strain LT2 / SGSC1412 / ATCC 700720) OX=99287 GN=menB PE=1 SV=1 
+	 Delta: 5.583067066083913e-05
+9. sp|Q9D995|CNTD1_MOUSE Cyclin N-terminal domain-containing protein 1 OS=Mus musculus OX=10090 GN=Cntd1 PE=1 SV=1 
+	 Delta: 5.619130983802734e-05
+10. sp|Q566V9|AUGNA_DANRE Augurin-A OS=Danio rerio OX=7955 GN=ecrg4a PE=2 SV=2 
+	 Delta: 6.468101727818976e-05
+11. sp|P0CJ08|VP29_LYCMC Venom protein 29 OS=Lychas mucronatus OX=172552 PE=2 SV=1 
+	 Delta: 0.00011195369604877214
+12. sp|P81312|Y78A_METJA Uncharacterized protein MJ0782.1 OS=Methanocaldococcus jannaschii (strain ATCC 43067 / DSM 2661 / JAL-1 / JCM 10045 / NBRC 100440) OX=243232 GN=MJ0782.1 PE=4 SV=1 
+	 Delta: 0.00011848758920507407
+13. sp|A8MI49|CINA_ALKOO Putative competence-damage inducible protein OS=Alkaliphilus oremlandii (strain OhILAs) OX=350688 GN=cinA PE=3 SV=1 
+	 Delta: 0.00013009899531368774
+14. sp|P18683|VNUN_BPHK0 Transcription termination factor nun OS=Escherichia phage HK022 OX=10742 GN=nun PE=1 SV=1 
+	 Delta: 0.00013686232477994054
+15. sp|Q9HF61|BUD3_ASHGO Bud site selection protein 3 homolog OS=Ashbya gossypii (strain ATCC 10895 / CBS 109.51 / FGSC 9923 / NRRL Y-1056) OX=284811 GN=BUD3 PE=3 SV=2 
+	 Delta: 0.0001458038670989481
+16. sp|P74232|PUR2_SYNY3 Phosphoribosylamine--glycine ligase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=purD PE=3 SV=1 
+	 Delta: 0.00015401949639226586
+17. sp|Q8SYV9|MTH14_DROME Probable G-protein coupled receptor Mth-like 14 OS=Drosophila melanogaster OX=7227 GN=mthl14 PE=2 SV=1 
+	 Delta: 0.00015862863899940294
+18. sp|P52996|PANB_BACSU 3-methyl-2-oxobutanoate hydroxymethyltransferase OS=Bacillus subtilis (strain 168) OX=224308 GN=panB PE=3 SV=1 
+	 Delta: 0.00019524528028114219
+19. sp|Q5PNA8|ARNT_SALPA Undecaprenyl phosphate-alpha-4-amino-4-deoxy-L-arabinose arabinosyl transferase OS=Salmonella paratyphi A (strain ATCC 9150 / SARB42) OX=295319 GN=arnT PE=3 SV=2 
+	 Delta: 0.0002056234234544263
+20. sp|A7N1D2|FADB_VIBC1 Fatty acid oxidation complex subunit alpha OS=Vibrio campbellii (strain ATCC BAA-1116) OX=2902295 GN=fadB PE=3 SV=1 
+	 Delta: 0.0002073970729412622
+21. sp|Q8DDK6|FADB_VIBVU Fatty acid oxidation complex subunit alpha OS=Vibrio vulnificus (strain CMCP6) OX=216895 GN=fadB PE=3 SV=1 
+	 Delta: 0.00020769429396239047
+22. sp|Q7MQH9|FADB_VIBVY Fatty acid oxidation complex subunit alpha OS=Vibrio vulnificus (strain YJ016) OX=196600 GN=fadB PE=3 SV=1 
+	 Delta: 0.00020769429751510415
+23. sp|Q32LT9|P2011_DANRE N-fatty-acyl-amino acid synthase/hydrolase PM20D1.1 OS=Danio rerio OX=7955 GN=pm20d1.1 PE=2 SV=1 
+	 Delta: 0.0002220570155486712
+24. sp|P41099|RLA2_PARAR Large ribosomal subunit protein P2 OS=Parthenium argentatum OX=35935 PE=3 SV=1 
+	 Delta: 0.0002245243706937572
+25. sp|A5FVL8|LGT_ACICJ Phosphatidylglycerol--prolipoprotein diacylglyceryl transferase OS=Acidiphilium cryptum (strain JF-5) OX=349163 GN=lgt PE=3 SV=1 
+	 Delta: 0.0002277626603159888
+26. sp|A4SGG4|RIMP_CHLPM Ribosome maturation factor RimP OS=Chlorobium phaeovibrioides (strain DSM 265 / 1930) OX=290318 GN=rimP PE=3 SV=1 
+	 Delta: 0.00023516715607740935
+27. sp|Q9LH85|RLA23_ARATH Large ribosomal subunit protein P2x OS=Arabidopsis thaliana OX=3702 GN=RPP2C PE=1 SV=1 
+	 Delta: 0.00024260552791588452
+28. sp|Q9UKA8|RCAN3_HUMAN Calcipressin-3 OS=Homo sapiens OX=9606 GN=RCAN3 PE=1 SV=1 
+	 Delta: 0.0002463346820746892
+29. sp|Q5L0X7|MURD_GEOKA UDP-N-acetylmuramoylalanine--D-glutamate ligase OS=Geobacillus kaustophilus (strain HTA426) OX=235909 GN=murD PE=3 SV=1 
+	 Delta: 0.0002531085229833252
+30. sp|Q02481|Y3691_SHEFN Uncharacterized protein Sfri_3691 OS=Shewanella frigidimarina (strain NCIMB 400) OX=318167 GN=Sfri_3691 PE=4 SV=2 
+	 Delta: 0.0002673107807851238
+31. sp|Q5X4E7|LOLA_LEGPA Outer-membrane lipoprotein carrier protein OS=Legionella pneumophila (strain Paris) OX=297246 GN=lolA PE=3 SV=1 
+	 Delta: 0.00027085400378723534
+32. sp|A5ICS0|LOLA_LEGPC Outer-membrane lipoprotein carrier protein OS=Legionella pneumophila (strain Corby) OX=400673 GN=lolA PE=3 SV=1 
+	 Delta: 0.00027085400378723534
+33. sp|Q50334|Y593_MYCPN Uncharacterized protein MPN_593 OS=Mycoplasma pneumoniae (strain ATCC 29342 / M129 / Subtype 1) OX=272634 GN=MPN_593 PE=4 SV=1 
+	 Delta: 0.0002869959692048951
+34. sp|Q8INZ1|Y1750_DROME Uncharacterized protein CG31750 OS=Drosophila melanogaster OX=7227 GN=CG31750 PE=4 SV=1 
+	 Delta: 0.0003223001213967791
+35. sp|Q5K130|CLU1O_HUMAN Putative uncharacterized protein CLLU1-AS1 OS=Homo sapiens OX=9606 GN=CLLU1-AS1 PE=5 SV=1 
+	 Delta: 0.0003312824270267356
+36. sp|A0QZZ6|Y4207_MYCS2 Universal stress protein MSMEG_4207 OS=Mycolicibacterium smegmatis (strain ATCC 700084 / mc(2)155) OX=246196 GN=MSMEG_4207 PE=1 SV=1 
+	 Delta: 0.00034042022835478747
+37. sp|Q9TWD3|NDB12_BUTOI Bradykinin-potentiating peptide K12 OS=Buthus occitanus OX=6868 PE=1 SV=1 
+	 Delta: 0.0003456819869569472
+38. sp|Q3IZ78|MCH_CERS4 Mesaconyl-CoA hydratase OS=Cereibacter sphaeroides (strain ATCC 17023 / DSM 158 / JCM 6121 / CCUG 31486 / LMG 2827 / NBRC 12203 / NCIMB 8253 / ATH 2.4.1.) OX=272943 GN=mch PE=1 SV=1 
+	 Delta: 0.000395098620217027
+39. sp|Q4ZX12|EX7L_PSEU2 Exodeoxyribonuclease 7 large subunit OS=Pseudomonas syringae pv. syringae (strain B728a) OX=205918 GN=xseA PE=3 SV=1 
+	 Delta: 0.000419960333786662
+40. sp|H1ZZI2|SCX13_TITOB Sodium channel toxin To13 OS=Tityus obscurus OX=1221240 PE=3 SV=1 
+	 Delta: 0.00042939722185053597
+41. sp|A7HM31|KAD_FERNB Adenylate kinase OS=Fervidobacterium nodosum (strain ATCC 35602 / DSM 5306 / Rt17-B1) OX=381764 GN=adk PE=3 SV=1 
+	 Delta: 0.0004303473562714544
+42. sp|O29581|KAD_ARCFU Adenylate kinase OS=Archaeoglobus fulgidus (strain ATCC 49558 / DSM 4304 / JCM 9628 / NBRC 100126 / VC-16) OX=224325 GN=adk PE=3 SV=1 
+	 Delta: 0.0004309057563176566
+43. sp|P52365|UL91_HHV7J Protein U62 OS=Human herpesvirus 7 (strain JI) OX=57278 GN=U62 PE=3 SV=1 
+	 Delta: 0.00044265775775897964
+44. sp|Q5PNS0|Y3228_ARATH PHD finger protein At3g20280 OS=Arabidopsis thaliana OX=3702 GN=At3g20280 PE=2 SV=1 
+	 Delta: 0.0004434178231349506
+45. sp|B2VEZ3|IXTPA_ERWT9 dITP/XTP pyrophosphatase OS=Erwinia tasmaniensis (strain DSM 17950 / CFBP 7177 / CIP 109463 / NCPPB 4357 / Et1/99) OX=465817 GN=ETA_28410 PE=3 SV=1 
+	 Delta: 0.0004529988269723617
+46. sp|Q95X91|NHR96_CAEEL Nuclear hormone receptor family member nhr-96 OS=Caenorhabditis elegans OX=6239 GN=nhr-96 PE=3 SV=2 
+	 Delta: 0.0004667971691389994
+47. sp|P0CY09|HMAL2_YEAST Silenced mating-type protein ALPHA2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=HMLALPHA2 PE=3 SV=1 
+	 Delta: 0.0005039089215586046
+48. sp|P0CY08|MTAL2_YEAST Mating-type protein ALPHA2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=MATALPHA2 PE=1 SV=1 
+	 Delta: 0.0005039089215586046
+49. sp|Q57M54|ARNT_SALCH Undecaprenyl phosphate-alpha-4-amino-4-deoxy-L-arabinose arabinosyl transferase OS=Salmonella choleraesuis (strain SC-B67) OX=321314 GN=arnT PE=3 SV=2 
+	 Delta: 0.0005273900918183472
+50. sp|Q8Z538|ARNT_SALTI Undecaprenyl phosphate-alpha-4-amino-4-deoxy-L-arabinose arabinosyl transferase OS=Salmonella typhi OX=90370 GN=arnT PE=3 SV=2 
+	 Delta: 0.0005273900918183472
+51. sp|O52327|ARNT_SALTY Undecaprenyl phosphate-alpha-4-amino-4-deoxy-L-arabinose arabinosyl transferase OS=Salmonella typhimurium (strain LT2 / SGSC1412 / ATCC 700720) OX=99287 GN=arnT PE=1 SV=2 
+	 Delta: 0.0005273900918183472
+52. sp|A5G2H9|ALR_ACICJ Alanine racemase OS=Acidiphilium cryptum (strain JF-5) OX=349163 GN=alr PE=3 SV=1 
+	 Delta: 0.0005645825083320233
+53. sp|P07367|LHA2_RHOCA Light-harvesting protein B-800/850 alpha chain OS=Rhodobacter capsulatus OX=1061 GN=pucA PE=1 SV=1 
+	 Delta: 0.0005715818446390131
+54. sp|Q6MIR5|NUOCD_BDEBA NADH-quinone oxidoreductase subunit C/D OS=Bdellovibrio bacteriovorus (strain ATCC 15356 / DSM 50701 / NCIMB 9529 / HD100) OX=264462 GN=nuoC PE=3 SV=1 
+	 Delta: 0.0005769496943770491
+55. sp|O22040|ANP1_ARATH Mitogen-activated protein kinase kinase kinase ANP1 OS=Arabidopsis thaliana OX=3702 GN=ANP1 PE=1 SV=2 
+	 Delta: 0.0005858932444482434
+56. sp|Q8MI05|KLRF1_MACFA Killer cell lectin-like receptor subfamily F member 1 OS=Macaca fascicularis OX=9541 GN=KLRF1 PE=2 SV=1 
+	 Delta: 0.00061714331262408
+57. sp|Q9NZS2|KLRF1_HUMAN Killer cell lectin-like receptor subfamily F member 1 OS=Homo sapiens OX=9606 GN=KLRF1 PE=1 SV=3 
+	 Delta: 0.000617167435450483
+58. sp|Q74BY2|KDSB_GEOSL 3-deoxy-manno-octulosonate cytidylyltransferase OS=Geobacter sulfurreducens (strain ATCC 51573 / DSM 12127 / PCA) OX=243231 GN=kdsB PE=3 SV=2 
+	 Delta: 0.0006583058984972467
+59. sp|Q2J9N8|MSHC_FRACC L-cysteine:1D-myo-inositol 2-amino-2-deoxy-alpha-D-glucopyranoside ligase OS=Frankia casuarinae (strain DSM 45818 / CECT 9043 / CcI3) OX=106370 GN=mshC PE=3 SV=1 
+	 Delta: 0.0006596650180483721
+60. sp|Q8E7H4|LYTS_STRA3 Sensor protein LytS OS=Streptococcus agalactiae serotype III (strain NEM316) OX=211110 GN=lytS PE=3 SV=1 
+	 Delta: 0.0006763512952687734
+61. sp|Q8E218|LYTS_STRA5 Sensor protein LytS OS=Streptococcus agalactiae serotype V (strain ATCC BAA-611 / 2603 V/R) OX=208435 GN=lytS PE=3 SV=1 
+	 Delta: 0.0006763512952687734
+62. sp|P56298|RPOA_CHLVU DNA-directed RNA polymerase subunit alpha OS=Chlorella vulgaris OX=3077 GN=rpoA PE=3 SV=1 
+	 Delta: 0.0006941072583970254
+63. sp|O58052|SYV_PYRHO Valine--tRNA ligase OS=Pyrococcus horikoshii (strain ATCC 700860 / DSM 12428 / JCM 9974 / NBRC 100139 / OT-3) OX=70601 GN=valS PE=3 SV=2 
+	 Delta: 0.0007002718087534276
+64. sp|Q8U409|SYV_PYRFU Valine--tRNA ligase OS=Pyrococcus furiosus (strain ATCC 43587 / DSM 3638 / JCM 8422 / Vc1) OX=186497 GN=valS PE=3 SV=1 
+	 Delta: 0.0007002718096345006
+65. sp|Q5JGN7|SYV_THEKO Valine--tRNA ligase OS=Thermococcus kodakarensis (strain ATCC BAA-918 / JCM 12380 / KOD1) OX=69014 GN=valS PE=3 SV=1 
+	 Delta: 0.0007004192242305862
+66. sp|B8F317|LEXA_GLAP5 LexA repressor OS=Glaesserella parasuis serovar 5 (strain SH0165) OX=557723 GN=lexA PE=3 SV=1 
+	 Delta: 0.0007379228114530179
+67. sp|Q9LEH8|HINB2_HORVU Hordoindoline-B2 OS=Hordeum vulgare OX=4513 GN=HINB-2 PE=1 SV=1 
+	 Delta: 0.0007409239999134343
+68. sp|Q10464|PUIB_WHEAT Puroindoline-B OS=Triticum aestivum OX=4565 GN=PINB PE=1 SV=1 
+	 Delta: 0.0007410250472190683
+69. sp|Q0RPD5|NHAA1_FRAAA Na(+)/H(+) antiporter NhaA 1 OS=Frankia alni (strain ACN14a) OX=326424 GN=nhaA1 PE=3 SV=1 
+	 Delta: 0.0007517435679744722
+70. sp|Q5H943|KKLC1_HUMAN Kita-kyushu lung cancer antigen 1 OS=Homo sapiens OX=9606 GN=CT83 PE=1 SV=1 
+	 Delta: 0.000779119321265398
+71. sp|Q056X7|MIAA_BUCCC tRNA dimethylallyltransferase OS=Buchnera aphidicola subsp. Cinara cedri (strain Cc) OX=372461 GN=miaA PE=3 SV=1 
+	 Delta: 0.0008015897367243952
+72. sp|P0CQ07|PALB_CRYNB Calpain-like protease palB/RIM13 OS=Cryptococcus neoformans var. neoformans serotype D (strain B-3501A) OX=283643 GN=RIM13 PE=3 SV=1 
+	 Delta: 0.0008522067626586249
+73. sp|P0CQ06|PALB_CRYNJ Calpain-like protease palB/RIM13 OS=Cryptococcus neoformans var. neoformans serotype D (strain JEC21 / ATCC MYA-565) OX=214684 GN=RIM13 PE=3 SV=1 
+	 Delta: 0.0008522067626586249
+74. sp|M9LRQ6|MAT1_PSEA3 Acetyltransferase MAT1 OS=Pseudozyma antarctica (strain T-34) OX=1151754 GN=MAT1 PE=1 SV=1 
+	 Delta: 0.000853476876002901
+75. sp|B2RM93|CPG1_PORG3 Gingipain R1 OS=Porphyromonas gingivalis (strain ATCC 33277 / DSM 20709 / CIP 103683 / JCM 12257 / NCTC 11834 / 2561) OX=431947 GN=rgpA PE=3 SV=1 
+	 Delta: 0.0008694621765243937
+76. sp|Q214F0|CTAA_RHOPB Heme A synthase OS=Rhodopseudomonas palustris (strain BisB18) OX=316056 GN=ctaA PE=3 SV=1 
+	 Delta: 0.000898950819234301
+77. sp|Q2U9J2|GPI7_ASPOR GPI ethanolamine phosphate transferase 2 OS=Aspergillus oryzae (strain ATCC 42149 / RIB 40) OX=510516 GN=las21 PE=3 SV=2 
+	 Delta: 0.0009186156026572689
+78. sp|F2G1U7|SLMA_ALTMD Nucleoid occlusion factor SlmA OS=Alteromonas mediterranea (strain DSM 17117 / CIP 110805 / LMG 28347 / Deep ecotype) OX=1774373 GN=slmA PE=3 SV=1 
+	 Delta: 0.0009442520771472118
+79. sp|Q9EYI7|ADC_STRNO Acetoacetate decarboxylase OS=Streptomyces nogalater OX=38314 GN=adc PE=3 SV=1 
+	 Delta: 0.0009588691868742671
+80. sp|Q8PW34|GGPP_METMA Geranylgeranyl diphosphate synthase OS=Methanosarcina mazei (strain ATCC BAA-159 / DSM 3647 / Goe1 / Go1 / JCM 11833 / OCM 88) OX=192952 GN=MM_1767 PE=3 SV=1 
+	 Delta: 0.0009667119507668076
+81. sp|Q8VCQ6|SMS1_MOUSE Phosphatidylcholine:ceramide cholinephosphotransferase 1 OS=Mus musculus OX=10090 GN=Sgms1 PE=1 SV=2 
+	 Delta: 0.0009699484951113391
+82. sp|Q3Z3T7|YBJL_SHISS Putative transport protein YbjL OS=Shigella sonnei (strain Ss046) OX=300269 GN=ybjL PE=3 SV=1 
+	 Delta: 0.0009752504333278011
+83. sp|A7ZJR5|YBJL_ECO24 Putative transport protein YbjL OS=Escherichia coli O139:H28 (strain E24377A / ETEC) OX=331111 GN=ybjL PE=3 SV=1 
+	 Delta: 0.0009752522497166183
+84. sp|B7UMT9|YBJL_ECO27 Putative transport protein YbjL OS=Escherichia coli O127:H6 (strain E2348/69 / EPEC) OX=574521 GN=ybjL PE=3 SV=1 
+	 Delta: 0.0009752522497166183
+85. sp|B7MGV4|YBJL_ECO45 Putative transport protein YbjL OS=Escherichia coli O45:K1 (strain S88 / ExPEC) OX=585035 GN=ybjL PE=3 SV=1 
+	 Delta: 0.0009752522497166183
+86. sp|B7LD40|YBJL_ECO55 Putative transport protein YbjL OS=Escherichia coli (strain 55989 / EAEC) OX=585055 GN=ybjL PE=3 SV=1 
+	 Delta: 0.0009752522497166183
+87. sp|P60871|YBJL_ECO57 Putative transport protein YbjL OS=Escherichia coli O157:H7 OX=83334 GN=ybjL PE=3 SV=1 
+	 Delta: 0.0009752522497166183
+88. sp|B5YSD8|YBJL_ECO5E Putative transport protein YbjL OS=Escherichia coli O157:H7 (strain EC4115 / EHEC) OX=444450 GN=ybjL PE=3 SV=1 
+	 Delta: 0.0009752522497166183
+89. sp|B7NNT0|YBJL_ECO7I Putative transport protein YbjL OS=Escherichia coli O7:K1 (strain IAI39 / ExPEC) OX=585057 GN=ybjL PE=3 SV=1 
+	 Delta: 0.0009752522497166183
+90. sp|B7MQV0|YBJL_ECO81 Putative transport protein YbjL OS=Escherichia coli O81 (strain ED1a) OX=585397 GN=ybjL PE=3 SV=1 
+	 Delta: 0.0009752522497166183
+91. sp|B7M7C2|YBJL_ECO8A Putative transport protein YbjL OS=Escherichia coli O8 (strain IAI1) OX=585034 GN=ybjL PE=3 SV=1 
+	 Delta: 0.0009752522497166183
+92. sp|C4ZY19|YBJL_ECOBW Putative transport protein YbjL OS=Escherichia coli (strain K12 / MC4100 / BW2952) OX=595496 GN=ybjL PE=3 SV=1 
+	 Delta: 0.0009752522497166183
+93. sp|B1X7Y8|YBJL_ECODH Putative transport protein YbjL OS=Escherichia coli (strain K12 / DH10B) OX=316385 GN=ybjL PE=3 SV=1 
+	 Delta: 0.0009752522497166183
+94. sp|A7ZYF0|YBJL_ECOHS Putative transport protein YbjL OS=Escherichia coli O9:H4 (strain HS) OX=331112 GN=ybjL PE=3 SV=1 
+	 Delta: 0.0009752522497166183
+95. sp|A1A986|YBJL_ECOK1 Putative transport protein YbjL OS=Escherichia coli O1:K1 / APEC OX=405955 GN=ybjL PE=3 SV=1 
+	 Delta: 0.0009752522497166183
+96. sp|Q0TJK1|YBJL_ECOL5 Putative transport protein YbjL OS=Escherichia coli O6:K15:H31 (strain 536 / UPEC) OX=362663 GN=ybjL PE=3 SV=1 
+	 Delta: 0.0009752522497166183
+97. sp|P60870|YBJL_ECOL6 Putative transport protein YbjL OS=Escherichia coli O6:H1 (strain CFT073 / ATCC 700928 / UPEC) OX=199310 GN=ybjL PE=3 SV=1 
+	 Delta: 0.0009752522497166183
+98. sp|B1IWS5|YBJL_ECOLC Putative transport protein YbjL OS=Escherichia coli (strain ATCC 8739 / DSM 1576 / NBRC 3972 / NCIMB 8545 / WDCM 00012 / Crooks) OX=481805 GN=ybjL PE=3 SV=1 
+	 Delta: 0.0009752522497166183
+99. sp|P60869|YBJL_ECOLI Putative transport protein YbjL OS=Escherichia coli (strain K12) OX=83333 GN=ybjL PE=3 SV=1 
+	 Delta: 0.0009752522497166183
+100. sp|B7NAJ3|YBJL_ECOLU Putative transport protein YbjL OS=Escherichia coli O17:K52:H18 (strain UMN026 / ExPEC) OX=585056 GN=ybjL PE=3 SV=1 
+	 Delta: 0.0009752522497166183
